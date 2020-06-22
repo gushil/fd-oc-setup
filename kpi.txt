@@ -1,0 +1,7 @@
+KEYCLOAK_AUTH_URI=https://keycloak_host
+KEYCLOAK_CLIENT_ID=formdesigner
+KEYCLOAK_ADMIN_CLIENT_SECRET=keycloak_admin_client_secret
+PUBLIC_URI=https://formdesigner_host
+OC_BUILD_URL=https://build_host
+ENKETO_URL=https://formpreview_host
+ENKETO_FORM_OC_INSTANCE_URL=//build_host/form-service/api/storage/artifacts/clinicaldata.xml
